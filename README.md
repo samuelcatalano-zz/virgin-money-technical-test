@@ -33,3 +33,7 @@ APIs:
 Basic URL path if you're running locally is: http://localhost:8080/virgin-money/transactions
 
 #### Check out the open API documentation to see the JSON body example.
+
+### How to run the tests:
+- For the controller test: `co.uk.virginmoneyexercise.VirginMoneyExerciseApplicationTests`
+- For the service test: `co.uk.virginmoneyexercise.service.TransactionServiceImplTest`
